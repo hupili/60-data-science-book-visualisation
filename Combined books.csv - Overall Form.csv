@@ -1,0 +1,63 @@
+Category,Author,Year,Title,URL
+Data Science in General,"Jeffrey Stanton, ",2013,An Introduction to Data Science,https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1
+Data Science in General,"School of Data, ",2015,School of Data Handbook,http://schoolofdata.org/handbook/
+Data Science in General,"DJ Patil, ",2012,Data Jujitsu: The Art of Turning Data into Product,http://www.oreilly.com/data/free/data-jujitsu.csp
+Interviews with Data Scientists,"Carl Shan, Henry Wang, William Chen, & Max Song, ",2015,The Data Science Handbook,http://www.thedatasciencehandbook.com/#get-the-book
+Interviews with Data Scientists,"Brian Liou, Tristan Tao, & Declan Shener, ",2015,The Data Analytics Handbook,https://www.teamleada.com/handbook
+Forming Data Science Teams,"Hilary Mason & DJ Patil, ",2015,Data Driven: Creating a Data Culture,http://www.oreilly.com/data/free/data-driven.csp
+Forming Data Science Teams,DJ Patil,2011,Building Data Science Teams,http://www.oreilly.com/data/free/building-data-science-teams.csp
+Forming Data Science Teams,"Julie Steele,",2015,Understanding the Chief Data Officer,http://www.oreilly.com/data/free/files/understanding-chief-data-officer.pdf
+Data Analysis,Jeff Leek,2015,The Elements of Data Analytic Style,https://leanpub.com/datastyle
+Distributed Computing Tools,"Tom White,",2011,Hadoop: The Definitive Guide,https://www.ida.liu.se/~TDDD43/themes/themeNOSQLlabs/2009-Hadoop.pdf
+Distributed Computing Tools,"Jimmy Lin & Chris Dyer,",2010,Data-Intensive Text Processing with MapReduce,https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf
+Python Language,"Allen Downey, ",2012,Think Python: How to Think Like a Computer Scientist,http://www.greenteapress.com/thinkpython/thinkpython.pdf
+Python Language,Wikibooks,2015,Python Programming,https://en.wikibooks.org/wiki/Python_Programming
+Python Language," Al Sweigart, ",2015,Automate the Boring Stuff with Python: Practical Programming for Total Beginners,https://automatetheboringstuff.com/
+Python Language,"Zed A. Shaw,",2013,Learn Python the Hard Way,http://learnpythonthehardway.org/book/
+R Language,"Roger D. Peng, ",2015,R Programming for Data Science,https://leanpub.com/rprogramming
+R Language,"Wikibooks, ",2014,R Programming,https://en.wikibooks.org/wiki/R_Programming
+R Language,"Hadley Wickham, ",2014,Advanced R,http://adv-r.had.co.nz/
+SQL Language,"Zed. A. Shaw,",2010,Learn SQL The Hard Way,http://sql.learncodethehardway.org/book/
+SQL Language,Tutorials Point,2015,SQL Tutorial,http://www.tutorialspoint.com/sql/sql_tutorial.pdf
+Data Mining and Machine Learning,"Amnon Shashua, ",2008,Introduction to Machine Learning,http://arxiv.org/pdf/0904.3664.pdf
+Data Mining and Machine Learning," Abdelhamid Mellouk & Abdennacer Chebira, ",2009,Machine Learning,http://www.intechopen.com/books/machine_learning
+Data Mining and Machine Learning,Wikipedia,2015,Machine Learning – The Complete Guide,https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide
+Data Mining and Machine Learning,"Reza Zafarani, Mohammad Ali Abbasi, & Huan Liu, ",2014,Social Media Mining An Introduction,http://dmml.asu.edu/smm/book/
+Data Mining and Machine Learning,Ian H. Witten & Eibe Frank,2005,Data Mining: Practical Machine Learning Tools and Techniques,ftp://ftp.ingv.it/pub/manuela.sbarra/Data%20Mining%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20-%20WEKA.pdf
+Data Mining and Machine Learning,"Jure Leskovec, Anand Rajaraman, & Jeff Ullman",2014,Mining of Massive Datasets,http://www.mmds.org/
+Data Mining and Machine Learning,"Ron Zacharski, ",2015,A Programmer’s Guide to Data Mining,http://guidetodatamining.com/
+Data Mining and Machine Learning,"Graham Williams,",2011,Data Mining with Rattle and R,http://mineriaddatos.wikispaces.com/file/view/Data+Mining+With+Rattle+and+R_+The+Art+of+Excavating+Data+for+Knowledge+Discovery+-+Graham+Williams.pdf
+Data Mining and Machine Learning,"Mohammed J. Zaki & Wagner Meria Jr.,",2014,Data Mining and Analysis: Fundamental Concepts and Algorithms,http://www.dataminingbook.info/pmwiki.php/Main/BookDownload
+Data Mining and Machine Learning," Cam Davidson-Pilon, ",2015,Probabilistic Programming & Bayesian Methods for Hackers,http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+Data Mining and Machine Learning,Michael J.A. Berry & Gordon S. Linoff,2004,"Data Mining Techniques For Marketing, Sales, and Customer Relationship Management",http://www.huaat.com/download/2009091Marketing.pdf
+Data Mining and Machine Learning,"Nada Lavrac & Saso Dzeroski, ",1994,Inductive Logic Programming: Techniques and Applications,http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf
+Data Mining and Machine Learning,"Christopher M. Bishop, ",2006,Pattern Recognition and Machine Learning,http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
+Data Mining and Machine Learning,"D. Michie, D.J. Spiegelhalter, & C.C. Taylor, ",1999,"Machine Learning, Neural and Statistical Classification",http://www1.maths.leeds.ac.uk/~charles/statlog/
+Data Mining and Machine Learning,"David J.C. MacKay, ",2005,"Information Theory, Inference, and Learning Algorithms",http://www.inference.phy.cam.ac.uk/mackay/itprnn/book.html
+Data Mining and Machine Learning,Johannes Ledolter,2013,Data Mining and Business Analytics with R,http://www.nataraz.in/data/ebook/hadoop/Data_Mining_and_Business_Analytics_with_R__Johannes_Ledolter.pdf
+Data Mining and Machine Learning,"David Barber,",2014,Bayesian Reasoning and Machine Learning,http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/240415.pdf
+Data Mining and Machine Learning,"C. E. Rasmussen & C. K. I. Williams, ",2006,Gaussian Processes for Machine Learning,http://www.gaussianprocess.org/gpml/chapters/RW.pdf
+Data Mining and Machine Learning,"Richard S. Sutton & Andrew G. Barto, ",2012,Reinforcement Learning: An Introduction,http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf
+Data Mining and Machine Learning,"Csaba Szepesvari , ",2009,Algorithms for Reinforcement Learning,http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf
+Data Mining and Machine Learning,Jared Dean,2014,"Big Data, Data Mining, and Machine Learning","http://pdf.th7.cn/down/files/1411/Big%20Data,%20Data%20Mining,%20and%20Machine%20Learning.pdf"
+Data Mining and Machine Learning,"Ben Klemens, ",2008,Modeling With Data,http://modelingwithdata.org/about_the_book.html
+Data Mining and Machine Learning,"Roberto Bello, ",2013,KB – Neural Data Mining with Python Sources,http://www.freeopen.org/wp-content/uploads/2013/10/KB_neural_data_mining.pdf
+Data Mining and Machine Learning,"Yoshua Bengio, Ian J. Goodfellow, & Aaron Courville,",2015,Deep Learning,http://www.iro.umontreal.ca/~bengioy/dlbook/
+Data Mining and Machine Learning,"Michael Nielsen,",2015,Neural Networks and Deep Learning,http://neuralnetworksanddeeplearning.com/
+Data Mining and Machine Learning,"Wikibooks, ",2014,Data Mining Algorithms In R,https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R
+Data Mining and Machine Learning,"Mohammed J. Zaki & Wagner Meira Jr., ",2014,Data Mining and Analysis: Fundamental Concepts and Algorithms,http://www.cs.rpi.edu/~zaki/PaperDir/DMABOOK.pdf
+Data Mining and Machine Learning,"Shigeaki Sakurai, ",2012,Theory and Applications for Advanced Text Mining,http://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining
+Statistics and Statistical Learning,"Allen B. Downey, ",2014,Think Stats: Exploratory Data Analysis in Python,http://greenteapress.com/thinkstats2/thinkstats2.pdf
+Statistics and Statistical Learning,"Allen B. Downey, ",2012,Think Bayes: Bayesian Statistics Made Simple,http://greenteapress.com/thinkbayes/
+Statistics and Statistical Learning,"Trevor Hastie, Robert Tibshirani, & Jerome Friedman, ",2008,"The Elements of Statistical Learning: Data Mining, Inference, and Prediction",http://web.stanford.edu/~hastie/local.ftp/Springer/OLD/ESLII_print4.pdf
+Statistics and Statistical Learning,"Gareth James, Daniela Witten, Trevor Hastie, & Robert Tibshirani,",2013,An Introduction to Statistical Learning with Applications in R,http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf
+Statistics and Statistical Learning,"Gary W. Oehlert,",2010,A First Course in Design and Analysis of Experiments,http://users.stat.umn.edu/~gary/book/fcdae.pdf
+Data Visualization,"Malcolm Maclean,",2015,D3 Tips and Tricks,https://leanpub.com/D3-Tips-and-Tricks
+Data Visualization,"Scott Murray,",2013,Interactive Data Visualization for the Web,http://chimera.labs.oreilly.com/books/1230000000345/index.html
+Big Data,"Jeffrey Needham, ",2013,Disruptive Possibilities: How Big Data Changes Everything ,http://hortonworks.com/wp-content/uploads/downloads/2013/04/DisruptivePossibilities.pdf
+Big Data,"Mike Barlow, ",2013,Real-Time Big Data Analytics: Emerging Architecture,http://www.pentaho.com/assets/pdf/CqPxTROXtCpfoLrUi4Bj.pdf
+Big Data,"O’Reilly Media, Inc., ",2012,Big Data Now: 2012 Edition,http://cdn.oreillystatic.com/oreilly/radarreport/0636920028307/Big_Data_Now_2012_Edition.pdf
+Computer Science Topics,"Steven Bird,",2009,Natural Language Processing with Python,http://www.nltk.org/book_1ed/
+Computer Science Topics,"Richard Szeliski,",2010,Computer Vision,http://szeliski.org/Book/
+Computer Science Topics,"Reinhard Klette,",2010,Concise Computer Vision,http://cvrs.whu.edu.cn/downloads/ebooks/Concise%20Computer%20Vision%20-%20An%20Introduction%20into%20Therory%20and%20Algorithm.pdf
+Computer Science Topics,"Stuart Russell, ",1995,"Artificial Intelligence A Modern Approach, 1st Edition",http://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf
