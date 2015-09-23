@@ -54,7 +54,9 @@ Interviews with Data Scientists,"Brian Liou, Tristan Tao, & Declan Shener, ",20
 
 ## Final production
 
-This produces `elements.csv` and `connections.csv`
+Execute the program segment in this
+[iPython notebook](http://nbviewer.ipython.org/github/hupili/60-data-science-book-visualisation/blob/master/Parse-Books-for-kumu.ipynb)
 
-https://raw.githubusercontent.com/hupili/60-data-science-book-visualisation/master/Parse%20Books%20for%20kumu.io.ipynb
+The script produces `elements.csv` and `connections.csv`.
 
+You can upload the two files onto <kumu.io> to get the nice network visualisation we presented at the beginning of this document.
