@@ -1,6 +1,8 @@
 # 60-data-science-book-visualisation
 
+![Visualisation of 60 data science book](https://raw.githubusercontent.com/hupili/60-data-science-book-visualisation/master/assets/data-science-books-graph.png)
 
+A live version can be found on [kumu.io](https://kumu.io/hupili/60-free-data-science-book#60-free-data-science-book)
 
 ## Background
 
