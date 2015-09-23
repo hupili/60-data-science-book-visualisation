@@ -52,5 +52,9 @@ Interviews with Data Scientists,"Brian Liou, Tristan Tao, & Declan Shener, ",20
 ...
 ```
 
+## Final production
 
+This produces `elements.csv` and `connections.csv`
+
+https://raw.githubusercontent.com/hupili/60-data-science-book-visualisation/master/Parse%20Books%20for%20kumu.io.ipynb
 
